@@ -38,16 +38,15 @@
 
 ## 📂 Файлы проекта и документация
 
-* 📄 **[Схема устройства в формате PDF] (https://github.com/Viva76/SEGA_RGB_mod/blob/main/Images/schematic.pdf)**
-* 📋 **[Спецификация компонентов (BOM)] (https://Viva76.github.io/SEGA_RGB_mod/ibom.html)**
-* 📦 **[Gerber-файлы для заказа печатной платы] (https://github.com/Viva76/SEGA_RGB_mod/blob/main/Gerber/Sega_RGB_gerber_v3.1.rar)**
+* 📄 **[Схема устройства в формате PDF](https://github.com/Viva76/SEGA_RGB_mod/blob/main/Images/schematic.pdf)**
+* 📋 **[Спецификация компонентов (BOM)](https://Viva76.github.io/SEGA_RGB_mod/ibom.html)**
+* 📦 **[Gerber-файлы для заказа печатной платы](https://github.com/Viva76/SEGA_RGB_mod/blob/main/Gerber/Sega_RGB_gerber_v3.1.rar)**
 
 ---
 
 ## 📷 Галерея и примеры установки
 
-Вот так выглядит плата в сборе и готовый пример модификации консоли:
-https://github.com/Viva76/SEGA_RGB_mod/tree/main/Images
+[Галерея с примерами](https://github.com/Viva76/SEGA_RGB_mod/tree/main/Images/)
 
 ---
 
