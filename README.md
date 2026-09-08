@@ -36,7 +36,7 @@
 
 * 📄 **[Схема устройства в формате PDF] (Images/schematic.pdf)**
 * 📋 **[Спецификация компонентов (BOM)] (bom/ibom.html)**
-* 📦 **[Gerber-файлы для заказа печатной платы] (Gerber/Sega_RGB_gerber_v3.1.rar)**
+* 📦 **[Gerber-файлы для заказа печатной платы] (https://github.com/Viva76/SEGA_RGB_mod/blob/main/Gerber/Sega_RGB_gerber_v3.1.rar)**
 
 ---
 
