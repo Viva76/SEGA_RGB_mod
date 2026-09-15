@@ -40,7 +40,7 @@
 
 ## 📂 Файлы проекта и документация
 
-* 📄 **[Схема устройства в формате PDF](https://github.com/Viva76/SEGA_RGB_mod/blob/main/Images/schematic.pdf)**
+* 📄 **[Схема устройства в формате PDF](https://github.com/Viva76/SEGA_RGB_mod/blob/main/docs/schematic.pdf)**
 * 📋 **[Спецификация компонентов (BOM)](https://Viva76.github.io/SEGA_RGB_mod/ibom.html)**
 * 📦 **[Gerber-файлы для заказа печатной платы](https://github.com/Viva76/SEGA_RGB_mod/blob/main/Gerber/Sega_RGB_gerber_v3.1.rar)**
 
